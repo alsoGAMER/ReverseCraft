@@ -1,0 +1,10 @@
+name: ReverseCraft
+version: ${project.version}
+main: io.github.ann0y1nghacker.plugin.Plugin
+api-version: 1.16
+authors: [ANN0Y1NGHACKER]
+description: Reverse Craft items in minecraft
+website: ANN0Y1NGHACKER.github.io
+commands:
+#  test:
+#    description: Test
