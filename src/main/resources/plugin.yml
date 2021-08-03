@@ -1,10 +1,7 @@
 name: ReverseCraft
-version: ${project.version}
+version: 1.0.1
 main: io.github.ann0y1nghacker.plugin.Plugin
-api-version: 1.16
+api-version: 1.17
 authors: [ANN0Y1NGHACKER]
 description: Reverse Craft items in minecraft
 website: ANN0Y1NGHACKER.github.io
-commands:
-#  test:
-#    description: Test

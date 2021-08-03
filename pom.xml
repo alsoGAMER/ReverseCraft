@@ -6,17 +6,17 @@
 
     <groupId>io.github.ANN0Y1NGHACKER</groupId>
     <artifactId>ReverseCraft</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
-    <name>Plugin</name>
+    <name>ReverseCraft</name>
 
-    <description>Plugins with spigot</description>
+    <description>Reverse Craft items in minecraft</description>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>16</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>16</maven.compiler.source>
+        <maven.compiler.target>16</maven.compiler.target>
     </properties>
     <url>ANN0Y1NGHACKER.github.io</url>
 
@@ -71,13 +71,8 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.16.1-R0.1-SNAPSHOT</version>
+            <version>1.17.1-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.spigotmc</groupId>
-            <artifactId>spigot</artifactId>
-            <version>1.16.1-R0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
